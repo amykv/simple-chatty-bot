@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -11,6 +12,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Problems/Assignments" />
+            <option value="$PROJECT_DIR$/Problems/Cutting the fraction" />
             <option value="$PROJECT_DIR$/Problems/First, second, third" />
             <option value="$PROJECT_DIR$/Problems/Fix the program" />
             <option value="$PROJECT_DIR$/Problems/Four numbers" />
@@ -18,6 +20,7 @@
             <option value="$PROJECT_DIR$/Problems/Hello, Kotlin" />
             <option value="$PROJECT_DIR$/Problems/I like Kotlin" />
             <option value="$PROJECT_DIR$/Problems/Max values of integer types" />
+            <option value="$PROJECT_DIR$/Problems/National assembly" />
             <option value="$PROJECT_DIR$/Problems/Printing each word in a new line" />
             <option value="$PROJECT_DIR$/Problems/Read and print" />
             <option value="$PROJECT_DIR$/Problems/Size, min and max" />
