@@ -25,7 +25,11 @@ fun main() {
     println("Now I will prove to you that I can count to any number you want.")
 
     // read a number and count to it here
+    val num = scanner.nextLong()
 
+    for (i in 0..num) {
+       println("$i!")
+    }
     println("Completed, have a nice day!")
 
 }
