@@ -19,12 +19,14 @@
             <option value="$PROJECT_DIR$/Problems/Boys in the sport class" />
             <option value="$PROJECT_DIR$/Problems/Check the value" />
             <option value="$PROJECT_DIR$/Problems/Compare Latin letters" />
+            <option value="$PROJECT_DIR$/Problems/Count the numbers" />
             <option value="$PROJECT_DIR$/Problems/Counting positive numbers" />
             <option value="$PROJECT_DIR$/Problems/Cutting the fraction" />
             <option value="$PROJECT_DIR$/Problems/Desks" />
             <option value="$PROJECT_DIR$/Problems/First, second, third" />
             <option value="$PROJECT_DIR$/Problems/Fix the input" />
             <option value="$PROJECT_DIR$/Problems/Fix the program" />
+            <option value="$PROJECT_DIR$/Problems/Fizz Buzz" />
             <option value="$PROJECT_DIR$/Problems/Four numbers" />
             <option value="$PROJECT_DIR$/Problems/From 0 to 9" />
             <option value="$PROJECT_DIR$/Problems/Good rest on vacation" />
@@ -51,7 +53,11 @@
             <option value="$PROJECT_DIR$/Problems/The last digit of a number" />
             <option value="$PROJECT_DIR$/Problems/The max of three numbers" />
             <option value="$PROJECT_DIR$/Problems/The max of two numbers without else-branch" />
+            <option value="$PROJECT_DIR$/Problems/The minimum value of N numbers" />
             <option value="$PROJECT_DIR$/Problems/The result of a game in Tic-Tac-Toe" />
+            <option value="$PROJECT_DIR$/Problems/The roots of equation" />
+            <option value="$PROJECT_DIR$/Problems/The sum of N numbers" />
+            <option value="$PROJECT_DIR$/Problems/The sum of integers from a to b" />
             <option value="$PROJECT_DIR$/Problems/Uncomment a line" />
             <option value="$PROJECT_DIR$/Problems/Very Big Number" />
             <option value="$PROJECT_DIR$/Problems/Within both ranges" />
