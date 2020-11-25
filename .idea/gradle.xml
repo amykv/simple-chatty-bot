@@ -17,6 +17,7 @@
             <option value="$PROJECT_DIR$/Problems/Between two numbers" />
             <option value="$PROJECT_DIR$/Problems/Boxes" />
             <option value="$PROJECT_DIR$/Problems/Boys in the sport class" />
+            <option value="$PROJECT_DIR$/Problems/Check the order" />
             <option value="$PROJECT_DIR$/Problems/Check the value" />
             <option value="$PROJECT_DIR$/Problems/Compare Latin letters" />
             <option value="$PROJECT_DIR$/Problems/Count the numbers" />
@@ -51,8 +52,10 @@
             <option value="$PROJECT_DIR$/Problems/The Hello World program" />
             <option value="$PROJECT_DIR$/Problems/The eternal truth" />
             <option value="$PROJECT_DIR$/Problems/The last digit of a number" />
+            <option value="$PROJECT_DIR$/Problems/The longest sequence" />
             <option value="$PROJECT_DIR$/Problems/The max of three numbers" />
             <option value="$PROJECT_DIR$/Problems/The max of two numbers without else-branch" />
+            <option value="$PROJECT_DIR$/Problems/The maximum pairwise product" />
             <option value="$PROJECT_DIR$/Problems/The minimum value of N numbers" />
             <option value="$PROJECT_DIR$/Problems/The result of a game in Tic-Tac-Toe" />
             <option value="$PROJECT_DIR$/Problems/The roots of equation" />
