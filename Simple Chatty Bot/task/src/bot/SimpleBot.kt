@@ -12,7 +12,7 @@ fun main() {
 
     val name = scanner.nextLine()
 
-    println("What a great name you have, " + name + "!")
+    println("What a great name you have, {$name}!")
     println("Let me guess your age.")
     println("Enter remainders of dividing your age by 3, 5 and 7.")
 
