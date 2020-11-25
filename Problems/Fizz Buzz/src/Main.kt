@@ -4,4 +4,18 @@ fun main(args: Array<String>) {
     val scanner = Scanner(System.`in`)
 
     // write your code here
+    val a = scanner.nextInt()
+    val b = scanner.nextInt()
+
+    for (i in a..b) {
+        if (i % 3 == 0 && i % 5 == 0) {
+            println("FizzBuzz")
+        } else if (i % 5 == 0) {
+            println("Buzz")
+        } else if (i % 3 == 0) {
+            println("Fizz")
+        } else {
+            println(i)
+        }
+    }
 }

@@ -13,4 +13,7 @@ files:
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/4679#comment
 status: Unchecked
+feedback:
+  message: Failed to get check result from JetBrains Academy
+  time: Wed, 25 Nov 2020 05:47:59 UTC
 record: -1
