@@ -1,0 +1,23 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    import java.util.*
+
+    // write your code here
+
+    /* Do not change code below */
+    fun main(args: Array<String>) {
+        val scanner = Scanner(System.`in`)
+        val a = scanner.nextInt()
+        println(getLastDigit(a))
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4589#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/4589#comment">JetBrains
+    Academy</a></html>
+  time: Thu, 26 Nov 2020 05:27:56 UTC
+record: -1
