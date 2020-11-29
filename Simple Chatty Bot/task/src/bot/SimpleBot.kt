@@ -11,6 +11,7 @@ fun main() {
     guessAge()
     count()
     // ...
+    test()
     end()
 }
 
@@ -47,6 +48,23 @@ fun count() {
 fun test() {
     println("Let's test your programming knowledge.")
     // write your code here
+    println("Why do we use methods?")
+    println("1. To repeat a statement multiple times.")
+    println("2. To decompose a program into several small subroutines.")
+    println("3. To determine the execution time of a program.")
+    println("4. To interrupt the execution of a program.")
+
+    var answer = scanner.nextInt()
+    var checker = true; //this variable seems to be not needed at all
+
+    while (checker && answer != 2) {
+            if (answer == 2) {
+                break
+            } else {
+                println("Please, try again.")
+                answer = scanner.nextInt()
+            }
+    }
 }
 
 fun end() {
