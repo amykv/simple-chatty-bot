@@ -1,2 +1,2 @@
 # simple-chatty-bot
-Hyperskill from JetBrains Academy. Basic bot with Kotlin fundamentals
+Hyperskill from JetBrains Academy. Basic bot with Kotlin fundamentals. Project is complete.
